@@ -6,4 +6,4 @@ https://url.kr/kohal2
 
 - Publisher's Github :
 
-- Data URL :
+- Data (location, population, etc) Zip File URL:
