@@ -9,3 +9,4 @@ https://github.com/teacher-jiejie/Lets-get-it-Python-Lecture
 
 - Data (location, population, etc) Zip File URL: 
 https://fromitot.tistory.com/26
+(Click the Red Word "파일 링크" (means file link in Korean)) 
